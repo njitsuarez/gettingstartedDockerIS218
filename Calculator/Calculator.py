@@ -18,3 +18,6 @@ class Calculator:
     def squareRoot(self, a):
         import math
         return (math.sqrt (a))
+
+    def square(self, a):
+        return a**2
